@@ -54,10 +54,20 @@ body {
     margin-bottom: 8px;
 }
 
+#arrowOne {
+    text-align: right;
+    vertical-align: middle;
+
+}
+
 #UxReviewP {
     font-size: 30px;
     color: #181D27;
     margin-bottom: 8px;
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 1176px;
+    width: 100%;
 }
 
 #compelingPresentationsP {
@@ -102,13 +112,14 @@ body {
     max-width: 1216px;
     width: 100%;
     margin-top: 64px;
+    margin-bottom: 48px;
 }
 
 #migrationContainer {
     max-width: 384px;
     width: 100%;
     display: inline-block;
-    margin-right: 32px;
+    margin-right: 26px;
     vertical-align: middle;
 }
 
@@ -128,7 +139,16 @@ body {
     font-size: 24px;
     color: #181D27;
     margin-bottom: 8px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 344px;
+    width: 100%;
 
+}
+
+#arrowTwo {
+    margin-left: 12px;
+    vertical-align: top;
 }
 
 #linearP {
@@ -136,8 +156,6 @@ body {
     color: #535862;
     margin-bottom: 24px;
 }
-
-
 
 #productLink {
     text-decoration: none;
@@ -172,7 +190,7 @@ body {
     max-width: 384px;
     width: 100%;
     display: inline-block;
-    margin-right: 32px;
+    margin-right: 26px;
     vertical-align: middle;
 }
 
@@ -192,6 +210,14 @@ body {
     font-size: 24px;
     color: #181D27;
     margin-bottom: 8px;
+    display: inline-block;
+    max-width: 344px;
+    width: 100%;
+}
+
+#arrowThree {
+    margin-left: 12px;
+    vertical-align: top;
 }
 
 #theRiseP {
@@ -219,4 +245,255 @@ body {
     border: 1px solid #FCCEEE;
     background: #FDF2FA;
     color: #C11574;
+}
+
+#billWashContainer {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#BillWalshPng {
+    max-width: 384px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#alecP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#billWalshP {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    max-width: 344px;
+    width: 100%;
+    display: inline-block;
+}
+
+#arrowFour {
+    margin-left: 12px;
+    vertical-align: top;
+}
+
+#likeP {
+    font-size: 16px;
+    color: #535862;
+    margin-bottom: 24px;
+}
+
+#leadershiLink {
+    padding: 8px 12px;
+    color: #6941C6;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+#managmentLink {
+    text-decoration: none;
+    color: #363F72;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #D5D9EB;
+    background: #F8F9FC;
+}
+
+#details2Container {
+    max-width: 1216px;
+    width: 100%;
+}
+
+#mentalModelsContainer {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-right: 26px;
+    vertical-align: top;
+}
+
+#mentalModelsPng {
+    max-width: 384px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-right: 26px;
+}
+
+#demiP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#pmMentalModelsP {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    max-width: 344px;
+    width: 100%;
+    display: inline-block;
+}
+
+#arrowFive {
+    vertical-align: top;
+    margin-left: 12px;
+}
+
+#mentalDemiP {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#productTwoLink {
+    text-decoration: none;
+    color: #026AA2;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    margin-right: 8px;
+}
+
+#researchTwolink {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+#FrameWorkslink {
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+    color: #B93815;
+}
+
+#wireFramingContainer {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    margin-right: 26px;
+    vertical-align: top;
+}
+
+#WireFramingPng {
+    max-width: 384px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#candiceP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#wireFramingP {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    max-width: 344px;
+    width: 100%;
+    display: inline-block;
+}
+
+#arrowSix {
+    margin-left: 12px;
+    vertical-align: top;
+}
+
+#IntroductionP {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#designTwoLink {
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+#researchThreeLink {
+    text-decoration: none;
+    padding: 8px 16px;
+    color: #3538CD;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+}
+
+#colaborationContainer {
+    max-width: 384px;
+    width: 100%;
+    display: inline-block;
+    vertical-align:middle;
+}
+
+#ColaborationPng {
+    max-width: 384px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#nataliP {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#howColaborationP {
+    font-size: 24px;
+    max-width: 344px;
+    width: 100%;
+    display: inline-block;
+    color: #181D27;
+    margin-bottom: 8px;
+}
+
+#arrowSeven {
+    margin-left: 12px;
+    vertical-align: top;
+}
+
+#collaborationCanP {
+    font-size: 16px;
+    color: #535862;
+    margin-bottom: 24px;
+}
+
+#designThreeLink {
+    text-decoration: none;
+    padding: 8px 16px;
+    color: #6941C6;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    margin-right: 8px;
+}
+
+#researchFourLink {
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
 }
